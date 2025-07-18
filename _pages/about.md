@@ -1,15 +1,12 @@
 ---
 permalink: /
-title: "Anke Sun's HomePage"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
-About Me
-======
 I am a first-year Ph.D. student in the Critical Game Design program at Rensselaer Polytechnic Institute (RPI). Previously, I was a Technical Audio Designer at Papergames, where I worked on [Infinity Nikki](https://infinitynikki.infoldgames.com/en/home). My current research focuses on game audio, immersive audio, Human-Computer Interaction (HCI) for music, and AI in audio.
 
 You can find my CV here:[AnkeSun_CV](../assets/AnkeSun_Resume.pdf)
@@ -17,12 +14,7 @@ You can find my CV here:[AnkeSun_CV](../assets/AnkeSun_Resume.pdf)
 
 Education
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+
 
 Work & Internship
 ----------
@@ -30,7 +22,6 @@ Work & Internship
 portfolio
 ------
 
-
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
